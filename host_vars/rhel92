@@ -1,0 +1,8 @@
+---
+ansiblehost: 10.2.1.1
+authType: authconfig
+data: 
+  pam:
+    pwdHash: sha512
+    history: 3
+    deyRoot: true
