@@ -1,1 +1,7 @@
-
+---
+authType: autoconfig
+data: 
+  pam:
+    pwdHash: sha512
+    history: 5
+    deyRoot: true
