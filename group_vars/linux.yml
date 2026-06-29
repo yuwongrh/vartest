@@ -1,0 +1,8 @@
+---
+password:
+  minlen: 14
+  ocredit: -1
+  dcredit: -1
+  ucredit: -1
+  lcredit: -1
+  family: 4
